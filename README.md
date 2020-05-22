@@ -1,4 +1,4 @@
-# -ADXXXXX-Template
+# -ADIR01P 赤外線リモコンアドバンス
 
 ## ここに見出し
 
