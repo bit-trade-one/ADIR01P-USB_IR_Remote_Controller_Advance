@@ -69,7 +69,7 @@ exp.
 
 ### [回路図](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Schematics/ir_pro_v1-13_schematics.pdf)
 
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+### [部品表](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Partslist/ADIR01P_v1-13_bom.pdf)
 
 
 ## 作例
