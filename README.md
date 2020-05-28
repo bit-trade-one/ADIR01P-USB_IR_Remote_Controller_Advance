@@ -62,8 +62,7 @@ USB赤外線リモコンアドバンスは「PCから家庭用機器をリモコ
 ### 性能はUP！あくまでもフ○スクサイズ
 到達距離、機能など大幅な性能アップを行いましたが、大きさはあくまでもフリ○クサイズ。  
 サイズはそのままですので、従来品を置き換える形でもご利用頂けます。
-
-|![画像が読めない時に表示されるテキスト](https://bit-trade-one.co.jp/wp/wp-content/uploads/2015/08/ADIR01P-FRSK.png)|
+![画像が読めない時に表示されるテキスト](https://bit-trade-one.co.jp/wp/wp-content/uploads/2015/08/ADIR01P-FRSK.png)
 
 
 ### 法人需要にも柔軟に対応
