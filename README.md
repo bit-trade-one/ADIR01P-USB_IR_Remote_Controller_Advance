@@ -107,7 +107,7 @@ exp.
 
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
 
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
+### [外形図](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Dimensions/ir_pro_v1-13_dimensions.pdf)
 
 ### [回路図](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Schematics/ir_pro_v1-13_schematics.pdf)
 
