@@ -89,23 +89,20 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 
+<!--
 # [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
+-->
+## [マニュアルはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Manual/ADIR01P_manual.pdf)
 
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/App)  
+<!--
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+-->
+### [ライブラリはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/Library)  
 
-### [ライブラリはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
+### [サンプルコードはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/Sample)  
 
-### [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/App_source)  
 
 ### [外形図](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Dimensions/ir_pro_v1-13_dimensions.pdf)
 
