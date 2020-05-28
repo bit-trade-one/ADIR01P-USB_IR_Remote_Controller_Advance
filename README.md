@@ -78,6 +78,8 @@ exp.
 
 
 ## 作例
+[USB赤外線リモコン ADVANCE を使ってみます](http://wisteriahill.sakura.ne.jp/CMS/WordPress/2018/09/25/usb-ir-remote-controller-advance-usage/)  
+
 
 [BTO公式]()  
 [Twitter作例1]()  
