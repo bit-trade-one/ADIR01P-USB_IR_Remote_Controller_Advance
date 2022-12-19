@@ -127,7 +127,7 @@ exp.
 -->
 ## [マニュアルはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Manual/ADIR01P_manual.pdf)
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/App)  
+## [アプリケーションソフトウェアはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/App)  
 <!--
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 -->
