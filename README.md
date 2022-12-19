@@ -1,3 +1,4 @@
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # ADIR01P USB赤外線リモコンアドバンス
 
 ![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2015/08/0adc21e42c8d6e6db55a2c1d089fcdd7.png)
