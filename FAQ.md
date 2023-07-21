@@ -73,3 +73,13 @@
 恐れ入りますが、設定ツールは1台づつ接続するように作られており、2台接続して動かすことはできません。
 
 ----
+
+ ## Q: x64版のライブラリがほしい
+
+ ### A: ご用意がございます。
+
+ [ADIR01P-USB_IR_Remote_Controller_Advance/Sample
+/USB_IR_sample_x64_R01.zip](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/raw/master/Sample/USB_IR_sample_x64_R01.zip)  
+こちらより取得ください。  
+
+----
