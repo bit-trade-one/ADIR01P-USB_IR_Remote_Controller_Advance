@@ -78,8 +78,9 @@
 
  ### A: ご用意がございます。
 
- [ADIR01P-USB_IR_Remote_Controller_Advance/Sample
-/USB_IR_sample_x64_R01.zip](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/raw/master/Sample/USB_IR_sample_x64_R01.zip)  
+ [ADIR01P-USB_IR_Remote_Controller_Advance/Library
+/USB_IR_Library_x64_v6.0.0.0.zip](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/raw/master/Library/USB_IR_Library_x64_v6.0.0.0.zip)  
+[x64 64bit版 取扱説明書](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/Library/USB_IR_Remote_Controller_Advance_LIBRARY_x64_r01.pdf)   
 こちらより取得ください。  
 
 ----
