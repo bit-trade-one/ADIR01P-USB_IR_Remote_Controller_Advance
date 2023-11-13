@@ -130,6 +130,9 @@ exp.
 ## [アプリケーションソフトウェアはこちら](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/tree/master/App)  
 
 ### [赤外線リモコンアドバンスTimer設定.xml](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance/blob/master/App/%E8%B5%A4%E5%A4%96%E7%B7%9A%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9Timer%E8%A8%AD%E5%AE%9A.xml) 
+
+---
+
 <!--
 ## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
 -->
