@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<TimerSetInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TIMER_SETTING_VISIBLE>true</TIMER_SETTING_VISIBLE>　＃タイマー設定表示有無　false=非表示　true=表示
+  <TIMER_SETTING_ENABLED>false</TIMER_SETTING_ENABLED>　＃タイマー有効設定　false=無効　true=有効
+  <TIMER_ITEM_NUM>3</TIMER_ITEM_NUM>　＃タイマー設定項目数
+  <check_status>
+    <boolean>false</boolean>　＃各タイマー設定項目有効設定　false=無効　true=有効
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+  </check_status>
+  <send_time>
+    <dateTime>2023-11-13T11:48:03</dateTime>　＃タイマー設定項目時刻設定　時刻のみ有効
+    <dateTime>2023-11-13T13:03:10</dateTime>
+    <dateTime>2023-11-13T13:10:10</dateTime>
+  </send_time>
+  <send_data_no>
+    <int>0</int>　＃赤外線送信No.
+    <int>1</int>
+    <int>2</int>
+  </send_data_no>
+</TimerSetInfo>
